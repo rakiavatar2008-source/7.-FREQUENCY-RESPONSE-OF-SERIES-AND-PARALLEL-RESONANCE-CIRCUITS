@@ -26,17 +26,14 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 **CIRCUIT DIAGRAM:**
 
 
-<img width="1600" height="1183" alt="image" src="https://github.com/user-attachments/assets/eb85dfab-d96f-4d2e-ab82-a19c835b9bed" />
 
 
 **Model graph:**
 
 
-<img width="1600" height="988" alt="image" src="https://github.com/user-attachments/assets/84c6fe43-b289-4f28-a37b-924306f1f1cc" />
 
 
 **TABULATION:**
-<img width="1600" height="610" alt="image" src="https://github.com/user-attachments/assets/fc69ddba-1722-4811-a7ad-7c72d43e5e03" />
 
 
 **PROCEDURE:**
@@ -52,7 +49,6 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **Mark split up:**
 
-<img width="824" height="540" alt="image" src="https://github.com/user-attachments/assets/44b71cfa-e3f3-45ef-8de0-47b0cf17bbc7" />
 
 **RESULT:**
 
